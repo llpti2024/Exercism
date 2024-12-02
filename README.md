@@ -46,8 +46,8 @@ Each folder under `src/` corresponds to an individual exercise, containing:
 
 Feel free to explore my solutions, and if you have any feedback, suggestions, or collaboration ideas, don't hesitate to reach out:
 
-- **Email**: llpti2024@gmail.com  
-- **LinkedIn**: [Lucas Levy Peruchi](https://www.linkedin.com/in/llpti/))  
+**Email**: [llpti2024@gmail.com](mailto:llpti2024@gmail.com)  
+- **LinkedIn**: [Lucas Levy Peruchi](https://www.linkedin.com/in/llpti/)  
 
 ---
 
